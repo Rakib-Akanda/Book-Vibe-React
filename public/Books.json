@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/C2pvTc9/The-Great-Gatsby-Cover-1925-Retouched.jpg",
+    "review": "A timeless classic exploring the decadence of the Jazz Age and the elusive American Dream.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classic", "Romance"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/n8n2cPW/The-Catcher-in-the-Rye-1951-first-edition-cover.jpg",
+    "review": "A poignant exploration of teenage angst and alienation, capturing the essence of adolescence.",
+    "totalPages": 214,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Coming-of-age", "Literary"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/6mV51C9/1984-first-edition-cover.jpg",
+    "review": "A dystopian masterpiece depicting a totalitarian regime's control over thought and language.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/JKysQxj/To-Kill-a-Mockingbird-first-edition-cover.jpg",
+    "review": "A profound exploration of racial injustice and moral growth set in the American South.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Classic", "Legal drama"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 5,
+    "bookName": "Muktijuddho Ekattor",
+    "author": "Muhammad Zafar Iqbal",
+    "image": "https://i.ibb.co/6bYjjGC/9676917807-2d9fa245cf-b.jpg",
+    "review": "A comprehensive account of the Bangladesh Liberation War of 1971, highlighting the sacrifices and struggles of the freedom fighters.",
+    "totalPages": 320,
+    "rating": 4.8,
+    "category": "History",
+    "tags": ["Bangladesh Liberation War"],
+    "publisher": "Munshigonj Prokashoni",
+    "yearOfPublishing": 1993
+  },
+  {
+    "bookId": 6,
+    "bookName": "Lajja",
+    "author": "Taslima Nasrin",
+    "image": "https://i.ibb.co/VjrsGpg/Cover-of-Book-named-Lajja.jpg",
+    "review": "A poignant narrative depicting the religious intolerance and communal violence faced by minorities in Bangladesh.",
+    "totalPages": 236,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Controversial", "Social Issues"],
+    "publisher": "Anupam Prokashoni",
+    "yearOfPublishing": 1993
+  }
+]
